@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
         <div className="layout">
           <div className="sidebar">
             <div className="logo">
-              <h6 className="text-light">S A H A Y A T A</h6>
+              <h6 className="text-light">M E D H E L P</h6>
               <p className="text-center"># h e a l t h i s w e a l t h</p>
               <hr />
             </div>
